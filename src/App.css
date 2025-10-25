@@ -1,0 +1,18 @@
+.app {
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.user-card {
+  justify-content: center;
+  align-items: center; 
+}
+
+.user-card p {
+  margin: 5px 0;
+  color: #ff8181;
+}
